@@ -959,7 +959,7 @@
   }
 
   .clientLogo {
-    height: 30px;
+    height: 60px;
     max-width: 100px;
     flex: 0 0 auto;
   }
@@ -1824,12 +1824,12 @@
   }
 
   .clientLogosGrid {
-    gap: 15px;
+    gap: 10px;
     justify-content: space-around;
   }
 
   .clientLogo {
-    height: 25px;
+    height: 50px;
     max-width: 80px;
     margin: 0 5px;
   }
